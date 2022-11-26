@@ -1,0 +1,105 @@
+.logo{
+    height: 3em;
+     cursor: pointer;
+
+}
+.row{
+    --bs-gutter-x: 0rem;
+}
+body{
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:white;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color:white;
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url(images/icons8-menu-squared-50.png);
+    background-color:#292421;
+
+    
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#1ed760;
+}
+.background{
+    background: url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    background-position: center -138px;
+    height: 33em;
+}
+.spotify-button{
+    border-radius:25px;
+    align-content: center;
+    background: white;
+    border-color: white;
+    height: 2.5em;
+    font-size: 20px;
+    
+
+}
+.content1{
+    font-weight: bold;
+    color: white;
+    font-size: 64px;
+}
+.spotify-button:hover{
+ font-weight: bold;
+}
+.content-image{
+align-items: center;
+}
+.background1{
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    height: 30em;
+  }
+  .font{
+    font-size: 48px;
+  }
+  .btn-secondary {
+    color: #0b0a0a;
+    background-color: #ffffff;
+    border-color: #cdd5dc;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+    background-color: #eae8e8bb;
+}
+.btn{
+   width:100%;
+   margin-bottom: 3em;
+   height:4em;
+}
+.spotify-mobile{
+    width: 12em;
+    
+}.section-last{
+    background: url(https://www.scdn.co/i/free/lets-play.svg) left -10px bottom -160px / 100% 1114px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) 16%, rgb(240, 55, 166)) rgb(108, 14, 224);
+    height: 30em;
+}.font1{
+    font-size: 80px;
+}
+.text2{
+    color: white;
+}
+.text1{
+    color: #919496;
+}
+.text1:hover{
+    color:#1ed760;
+}
+.text2:hover{
+    color:#1ed760;
+}.dropdown-menu{
+    max-width: 100%;
+    overflow:auto;
+  
+}
+.text3{
+    color:grey;
+    font-size: 10px;
+
+}
